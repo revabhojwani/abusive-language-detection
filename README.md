@@ -38,4 +38,3 @@ Task 1 (multi-label emotional behaviors) achieves ~0.54 macro-F1, a substantial 
 - [Unhealthy Comments Corpus (UCC)](https://arxiv.org/abs/2010.07410)
 - Reddit relationship abuse dataset (#WhyIStayed / #WhyILeft)
 
-## Requirements
